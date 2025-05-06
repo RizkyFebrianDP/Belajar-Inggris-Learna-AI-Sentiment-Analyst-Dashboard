@@ -21,7 +21,7 @@ st.sidebar.markdown("""
 If you don't have the required packages installed, run the following command in your terminal:
 
 ```
-pip install streamlit pandas matplotlib seaborn wordcloud plotly
+pip install -r https://raw.githubusercontent.com/RizkyFebrianDP/Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard/main/requirements.txt
 ```
 """)
 
