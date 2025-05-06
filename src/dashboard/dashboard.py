@@ -21,11 +21,8 @@ st.sidebar.markdown("""
 If you don't have the required packages installed, run the following command in your terminal:
 
 ```
-<<<<<<< HEAD
-pip install -r  https://raw.githubusercontent.com/RizkyFebrianDP/Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard/main/requirements.txt
-=======
+<<<<<<< 
 pip install -r https://raw.githubusercontent.com/RizkyFebrianDP/Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard/main/requirements.txt
->>>>>>> afa2b13feb715f9579226ef8ff17e1639080829b
 ```
 """)
 
