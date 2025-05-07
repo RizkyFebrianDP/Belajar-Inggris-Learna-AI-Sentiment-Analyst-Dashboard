@@ -93,7 +93,7 @@ link : https://learnai-sentiment-analysis-dashboard.streamlit.app/
 - Allows users to input text and get sentiment predictions from selected models.
 
 ### Dashboard (`src/dashboard/playstore_pred`)
-link : https://learnai-sentiment-analysis-dashboard.streamlit.app/
+link : https://playstore-sentiment-analyst-dashboard.streamlit.app/
 -Built with Streamlit to provide an interactive web interface for sentiment analysis of Google Play Store app reviews.
 -Scrapes user reviews from the Play Store by app ID or URL.
 Preprocesses comments for analysis.
