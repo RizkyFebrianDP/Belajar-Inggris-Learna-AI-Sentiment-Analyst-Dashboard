@@ -139,7 +139,6 @@ toml==0.10.2
 torch==2.7.0
 tornado==6.4.2
 tqdm==4.67.1
-transformers @ git+https://github.com/huggingface/transformers@0ebd6651acd32c982fee265b23243b89bdb89577
 transformers==4.35.0
 typer==0.15.3
 typing-inspection==0.4.0
