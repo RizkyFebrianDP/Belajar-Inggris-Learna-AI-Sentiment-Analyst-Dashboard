@@ -84,12 +84,22 @@ This project is a Sentiment Analysis Dashboard for the "Belajar Inggris: Learna 
   - Saves the trained model and vectorizer for later use.
 
 ### Dashboard (`src/dashboard/dashboard.py`)
+link : https://learnai-sentiment-analysis-dashboard.streamlit.app/
 - Built with Streamlit to provide an interactive web interface.
 - Visualizes:
   - Most frequent words in user comments.
   - Sentiment distribution pie chart.
   - Model performance comparison (accuracy, precision, recall, F1 score).
 - Allows users to input text and get sentiment predictions from selected models.
+
+### Dashboard (`src/dashboard/playstore_pred`)
+link : https://learnai-sentiment-analysis-dashboard.streamlit.app/
+-Built with Streamlit to provide an interactive web interface for sentiment analysis of Google Play Store app reviews.
+-Scrapes user reviews from the Play Store by app ID or URL.
+Preprocesses comments for analysis.
+-Predicts sentiment using multiple models including traditional machine learning models (Random Forest, Logistic Regression, Naive Bayes) and a deep learning model (DistilBERT).
+-Visualizes sentiment distribution with bar charts and pie charts.
+-Allows users to input an app ID or URL and select a model to get sentiment predictions on the scraped reviews.
 
 ## Closing
 This project demonstrates an end-to-end pipeline for sentiment analysis on app reviews, from data collection to model deployment and visualization. It can be extended with more advanced models or additional data sources. For any questions or contributions, please feel free to contact the project maintainer.
