@@ -49,5 +49,3 @@ To install all required dependencies, please use the provided requirements file.
 pip install -r https://raw.githubusercontent.com/RizkyFebrianDP/Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard/main/requirements.txt
 ```
 
-This will ensure you have all necessary packages to run the project smoothly.
-=======
