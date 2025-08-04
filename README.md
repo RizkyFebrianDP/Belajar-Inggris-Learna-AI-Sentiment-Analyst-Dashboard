@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard
 
 ## Project Overview
@@ -48,4 +47,5 @@ To install all required dependencies, please use the provided requirements file.
 ```
 pip install -r https://raw.githubusercontent.com/RizkyFebrianDP/Belajar-Inggris-Learna-AI-Sentiment-Analyst-Dashboard/main/requirements.txt
 ```
+
 
